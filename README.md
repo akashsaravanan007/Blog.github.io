@@ -6,3 +6,5 @@ Used HTML5 by designing a beautiful and responsive blog frontend using HTML5 and
 
 
 ![blog](https://user-images.githubusercontent.com/58935531/87248688-7538d580-c478-11ea-91b3-1f9e16602797.gif)
+
+![blog_mob](https://user-images.githubusercontent.com/58935531/87248763-0ad46500-c479-11ea-8f6a-22ec228dad99.gif)
